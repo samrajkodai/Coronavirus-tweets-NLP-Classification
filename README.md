@@ -1,2 +1,2 @@
-# Coronavirus-tweets-NLP-Classification.
+# Coronavirus tweets NLP Classification.
 
